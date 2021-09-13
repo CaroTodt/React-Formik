@@ -1,4 +1,4 @@
-.App {
+/* .App {
   display: flex;
   justify-content: center;
 }
@@ -25,7 +25,7 @@ textarea{
   border:1px solid #ccc;
   border-radius: 4px;
   /* margin-bottom: 20px; */
-}
+/* } */
 
 /* button {
   width: 100%;
@@ -38,12 +38,12 @@ textarea{
   cursor: pointer;
 } */
 
-.form-control{
+/* .form-control{
   margin-bottom: 20px;
 }
 
 .error{
   color:red;
-}
+} */
 
 
